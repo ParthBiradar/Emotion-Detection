@@ -22,7 +22,7 @@ The model is trained on the FER-2013 dataset, which contains grayscale facial im
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Real-time Emotion Detection
 * Facial Expression Recognition
@@ -48,7 +48,7 @@ The model classifies facial expressions into the following categories:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
@@ -99,7 +99,7 @@ Emotion-Detection/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
