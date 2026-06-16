@@ -1,10 +1,10 @@
-# 😊 Emotion Detection Using Deep Learning
+# Emotion Detection Using Deep Learning
 
 A Deep Learning-based Facial Emotion Recognition system that classifies human emotions from facial expressions using Convolutional Neural Networks (CNNs). The model is trained on the FER-2013 dataset and can detect emotions in real-time using a webcam feed.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project uses Deep Learning and Computer Vision techniques to identify human emotions from facial images. The system detects faces using OpenCV's Haar Cascade classifier and predicts one of seven emotions using a trained CNN model.
 
@@ -12,7 +12,7 @@ The model is trained on the FER-2013 dataset, which contains grayscale facial im
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Detect human faces in real-time
 * Classify facial expressions into emotions
@@ -79,7 +79,7 @@ The model classifies facial expressions into the following categories:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Emotion-Detection/
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses the FER-2013 (Facial Expression Recognition) dataset.
 
@@ -134,7 +134,7 @@ Dataset Characteristics:
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ### Train the Model
 
@@ -154,7 +154,7 @@ The webcam will start, and the system will detect faces and predict emotions in 
 
 ---
 
-## 🧠 Model Workflow
+##  Model Workflow
 
 1. Capture image from webcam
 2. Detect face using Haar Cascade
@@ -166,7 +166,7 @@ The webcam will start, and the system will detect faces and predict emotions in 
 
 ---
 
-## 📈 Results
+##  Results
 
 * Real-time emotion recognition
 * CNN-based classification
@@ -175,7 +175,7 @@ The webcam will start, and the system will detect faces and predict emotions in 
 
 ---
 
-## 📸 Output
+##  Output
 
 Add screenshots here:
 
@@ -186,7 +186,7 @@ Add screenshots here:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Higher Accuracy Models
 * Transfer Learning (ResNet, EfficientNet)
@@ -198,7 +198,7 @@ Add screenshots here:
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 * Deep Learning Fundamentals
 * Convolutional Neural Networks (CNNs)
@@ -210,7 +210,7 @@ Add screenshots here:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Parth Biradar
 
